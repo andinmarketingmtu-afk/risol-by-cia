@@ -1,29 +1,42 @@
-# Website Company Profile - Risol by Cia
+# Website Company Profile – Risol by Cia
 
-**Nama:** Cindy Andin Dita Br Sembiring  
-**NIM:** 240103015  
-**Program Studi:** Bisnis Digital - Semester 5  
-**Nama UMKM:** Risol by Cia
+## Identitas Mahasiswa
+- **Nama:** Cindy Andin Dita Br Sembiring
+- **NIM:** 240103015
+- **Program Studi:** Bisnis Digital
+- **Semester:** 5
 
-## Deskripsi
-Website company profile UMKM Risol by Cia dibuat menggunakan HTML, CSS, dan JavaScript. Website menampilkan Beranda, Tentang Kami, Sejarah, Visi dan Misi, Profil Pemilik/Tim, Produk, serta Kontak.
+## Identitas UMKM
+- **Nama UMKM:** Risol by Cia
+- **Bidang Usaha:** Kuliner / Makanan
+- **Alamat:** Jalan Marelan Raya Tanah 600
+- **WhatsApp:** 085262775556
+- **Email:** risolcia@gmail.com
+- **Instagram:** @risolcia_
 
-## Fitur
-- Navigasi empat menu utama.
-- Dropdown submenu pada menu Tentang Kami dan Produk.
-- Dropdown hover pada desktop dan menu hamburger pada perangkat mobile.
-- Tampilan responsif untuk desktop dan ponsel.
-- Informasi kontak dan formulir pesan demo.
+## Deskripsi Website
+Website company profile Risol by Cia dibuat untuk memperkenalkan UMKM Risol by Cia kepada masyarakat melalui media digital. Website ini menyediakan informasi mengenai profil dan sejarah usaha, visi dan misi, pemilik/tim, produk yang ditawarkan, serta informasi kontak.
 
-## Menjalankan Website
-Buka file `index.html` melalui browser. Website ini juga dapat dipublikasikan menggunakan GitHub Pages.
+## Fitur Website
+1. Halaman Beranda.
+2. Bagian Tentang Kami yang memuat sejarah, visi dan misi, serta profil pemilik/tim.
+3. Bagian Produk yang menampilkan produk Risol by Cia.
+4. Bagian Kontak yang memuat alamat, nomor WhatsApp, email, media sosial, dan formulir pesan.
+5. Navigasi dropdown pada desktop.
+6. Menu hamburger untuk perangkat mobile.
+7. Tampilan responsif pada HP dan komputer.
 
-## Mengaktifkan GitHub Pages
-1. Buka repository, pilih **Settings**.
-2. Pilih **Pages** pada menu samping.
-3. Pada **Build and deployment**, pilih **Deploy from a branch**.
-4. Pilih branch **main** dan folder **/(root)**, lalu tekan **Save**.
-5. Tunggu proses deployment selesai. Link website akan tampil pada halaman Pages.
+## Teknologi yang Digunakan
+- HTML
+- CSS
+- JavaScript
+- GitHub Pages
+
+## Link Website
+**Website:** https://andinmarketingmtu-afk.github.io/risol-by-cia/
+
+## Cara Menjalankan Website Secara Lokal
+Unduh repository ini, ekstrak file ZIP, kemudian buka file `index.html menggunakan browser.
 
 ## Catatan
-Formulir kontak pada website masih berupa demo dan belum mengirim pesan ke email. Sejarah, profil, dan daftar produk dapat disesuaikan dengan informasi UMKM yang sebenarnya.
+Formulir kontak pada website merupakan formulir demo dan belum terhubung ke layanan pengiriman email. Informasi usaha dan produk dapat diperbarui sesuai data UMKM yang sebenarnya.
